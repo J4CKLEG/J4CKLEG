@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django projects<br>- 🌱 I’m currently learning React.js<br>- 👯 I’m looking to collaborate on open-source Django projects<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about django<br>- 📫 How to reach me: akhiljoy375@gmail.com
+🔭 I’m currently working on MERN<br>- 🌱 I’m currently learning React.js<br>- 👯 I’m looking to collaborate on open-source React projects<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about MERN<br>- 📫 How to reach me: akhiljoy375@gmail.com
 
 
 ## 🌐 Socials:
